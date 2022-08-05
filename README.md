@@ -11,8 +11,11 @@ Total rooms: 122
 There are four types of rooms with these prices:
 
 Standard Rooms, Courtyard - 70 - $125 a night - Rooms 101 thru 170
+
 Standard Room, Scenic - 35 - $145 a night - Rooms 201 thru 235
+
 Deluxe Suite - 15 - $350 a night - Rooms 236 thru 250
+
 Penthouse - 2 - $1135 a night - Rooms 301 and 302
 
 Second: The program will start by asking today's date. I want you to be able to create multiple days.
